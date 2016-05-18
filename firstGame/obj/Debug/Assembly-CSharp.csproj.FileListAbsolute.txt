@@ -1,0 +1,168 @@
+C:\Users\Owner\Documents\School Stuff\semester2\Game Programing III\unity\lab2\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Documents\School Stuff\semester2\Game Programing III\unity\lab2\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Owner\Documents\School Stuff\semester2\Game Programing III\unity\lab2\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Owner\Documents\School Stuff\semester2\Game Programing III\unity\lab2\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Owner\Documents\School Stuff\semester2\Game Programing III\unity\lab2\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Owner\Documents\School Stuff\semester2\Game Programing III\unity\lab2\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Owner\Documents\School Stuff\semester2\Game Programing III\unity\lab2\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Owner\Documents\School Stuff\semester2\Game Programing III\unity\lab2\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Owner\Documents\School Stuff\semester2\Game Programing III\unity\lab2\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Owner\Documents\School Stuff\semester2\Game Programing III\unity\lab2\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Owner\Documents\School Stuff\semester2\Game Programing III\unity\lab2\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Owner\Documents\School Stuff\semester2\Game Programing III\unity\lab2\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Owner\Documents\School Stuff\semester2\Game Programing III\unity\lab2\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Owner\Documents\School Stuff\semester2\Game Programing III\unity\lab2\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Owner\Documents\School Stuff\semester2\Game Programing III\unity\lab2\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Owner\Documents\School Stuff\semester2\Game Programing III\unity\lab2\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Owner\Documents\School Stuff\semester2\Game Programing III\unity\lab2\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Owner\Documents\School Stuff\semester2\Game Programing III\unity\lab2\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Owner\Documents\School Stuff\semester2\Game Programing III\unity\lab2\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Owner\Documents\School Stuff\semester2\Game Programing III\unity\lab2\obj\Debug\Assembly-CSharp.dll
+C:\Users\Owner\Documents\School Stuff\semester2\Game Programing III\unity\lab2\obj\Debug\Assembly-CSharp.pdb
+E:\chaos\Documents\school stuff\semester2\PorgrammngIII\Unity\Animation\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+E:\chaos\Documents\school stuff\semester2\PorgrammngIII\Unity\Animation\obj\Debug\Assembly-CSharp.dll
+E:\chaos\Documents\school stuff\semester2\PorgrammngIII\Unity\Animation\obj\Debug\Assembly-CSharp.pdb
+E:\chaos\Documents\school stuff\semester2\PorgrammngIII\Unity\Animation\Temp\bin\Debug\Assembly-CSharp.dll
+E:\chaos\Documents\school stuff\semester2\PorgrammngIII\Unity\Animation\Temp\bin\Debug\Assembly-CSharp.pdb
+E:\chaos\Documents\school stuff\semester2\PorgrammngIII\Unity\Animation\Temp\bin\Debug\UnityEditor.dll
+E:\chaos\Documents\school stuff\semester2\PorgrammngIII\Unity\Animation\Temp\bin\Debug\UnityEngine.dll
+E:\chaos\Documents\school stuff\semester2\PorgrammngIII\Unity\Animation\Temp\bin\Debug\UnityEngine.Networking.dll
+E:\chaos\Documents\school stuff\semester2\PorgrammngIII\Unity\Animation\Temp\bin\Debug\UnityEngine.UI.dll
+E:\chaos\Documents\school stuff\semester2\PorgrammngIII\Unity\Animation\Temp\bin\Debug\Mono.Cecil.dll
+E:\chaos\Documents\school stuff\semester2\PorgrammngIII\Unity\Animation\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\chaos\Documents\school stuff\semester2\PorgrammngIII\Unity\Animation\Temp\bin\Debug\Unity.DataContract.dll
+E:\chaos\Documents\school stuff\semester2\PorgrammngIII\Unity\Animation\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+E:\chaos\Documents\school stuff\semester2\PorgrammngIII\Unity\Animation\Temp\bin\Debug\Unity.UNetWeaver.dll
+E:\chaos\Documents\school stuff\semester2\PorgrammngIII\Unity\Animation\Temp\bin\Debug\Unity.CecilTools.dll
+E:\chaos\Documents\school stuff\semester2\PorgrammngIII\Unity\Animation\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+E:\chaos\Documents\school stuff\semester2\PorgrammngIII\Unity\Animation\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+E:\chaos\Documents\school stuff\semester2\PorgrammngIII\Unity\Animation\Temp\bin\Debug\UnityEngine.xml
+E:\chaos\Documents\school stuff\semester2\PorgrammngIII\Unity\Animation\Temp\bin\Debug\UnityEditor.xml
+E:\chaos\Documents\school stuff\semester2\PorgrammngIII\Unity\Animation\Temp\bin\Debug\UnityEngine.UI.xml
+E:\chaos\Documents\school stuff\semester2\PorgrammngIII\Unity\Animation\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Owner\Google Drive\Unity\CameraFollow\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Google Drive\Unity\CameraFollow\obj\Debug\Assembly-CSharp.dll
+C:\Users\Owner\Google Drive\Unity\CameraFollow\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Owner\Google Drive\Unity\CameraFollow\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Owner\Google Drive\Unity\CameraFollow\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Owner\Google Drive\Unity\CameraFollow\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Owner\Google Drive\Unity\CameraFollow\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Owner\Google Drive\Unity\CameraFollow\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Owner\Google Drive\Unity\CameraFollow\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Owner\Google Drive\Unity\CameraFollow\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Owner\Google Drive\Unity\CameraFollow\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Owner\Google Drive\Unity\CameraFollow\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Owner\Google Drive\Unity\CameraFollow\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Owner\Google Drive\Unity\CameraFollow\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Owner\Google Drive\Unity\CameraFollow\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Owner\Google Drive\Unity\CameraFollow\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Owner\Google Drive\Unity\CameraFollow\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Owner\Google Drive\Unity\CameraFollow\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Owner\Google Drive\Unity\CameraFollow\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Owner\Google Drive\Unity\CameraFollow\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Owner\Google Drive\Unity\CameraFollow\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Owner\Documents\School Stuff\semester2\Game Programing III\unity\scrolling Background\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Owner\Documents\School Stuff\semester2\Game Programing III\unity\scrolling Background\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Owner\Documents\School Stuff\semester2\Game Programing III\unity\scrolling Background\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Owner\Documents\School Stuff\semester2\Game Programing III\unity\scrolling Background\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Owner\Documents\School Stuff\semester2\Game Programing III\unity\scrolling Background\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Owner\Documents\School Stuff\semester2\Game Programing III\unity\scrolling Background\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Owner\Documents\School Stuff\semester2\Game Programing III\unity\scrolling Background\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Owner\Documents\School Stuff\semester2\Game Programing III\unity\scrolling Background\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Owner\Documents\School Stuff\semester2\Game Programing III\unity\scrolling Background\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Owner\Documents\School Stuff\semester2\Game Programing III\unity\scrolling Background\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Owner\Documents\School Stuff\semester2\Game Programing III\unity\scrolling Background\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Owner\Documents\School Stuff\semester2\Game Programing III\unity\scrolling Background\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Owner\Documents\School Stuff\semester2\Game Programing III\unity\scrolling Background\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Owner\Documents\School Stuff\semester2\Game Programing III\unity\scrolling Background\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Owner\Documents\School Stuff\semester2\Game Programing III\unity\scrolling Background\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Owner\Documents\School Stuff\semester2\Game Programing III\unity\scrolling Background\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Owner\Documents\School Stuff\semester2\Game Programing III\unity\scrolling Background\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Owner\Documents\School Stuff\semester2\Game Programing III\unity\scrolling Background\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Owner\Documents\School Stuff\semester2\Game Programing III\unity\scrolling Background\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Documents\School Stuff\semester2\Game Programing III\unity\scrolling Background\obj\Debug\Assembly-CSharp.dll
+C:\Users\Owner\Documents\School Stuff\semester2\Game Programing III\unity\scrolling Background\obj\Debug\Assembly-CSharp.pdb
+E:\chaos\Documents\school stuff\semester2\PorgrammngIII\Unity\scrolling Background - Copy\Temp\bin\Debug\Assembly-CSharp.dll
+E:\chaos\Documents\school stuff\semester2\PorgrammngIII\Unity\scrolling Background - Copy\Temp\bin\Debug\Assembly-CSharp.pdb
+E:\chaos\Documents\school stuff\semester2\PorgrammngIII\Unity\scrolling Background - Copy\Temp\bin\Debug\UnityEditor.dll
+E:\chaos\Documents\school stuff\semester2\PorgrammngIII\Unity\scrolling Background - Copy\Temp\bin\Debug\UnityEngine.dll
+E:\chaos\Documents\school stuff\semester2\PorgrammngIII\Unity\scrolling Background - Copy\Temp\bin\Debug\UnityEngine.Networking.dll
+E:\chaos\Documents\school stuff\semester2\PorgrammngIII\Unity\scrolling Background - Copy\Temp\bin\Debug\UnityEngine.UI.dll
+E:\chaos\Documents\school stuff\semester2\PorgrammngIII\Unity\scrolling Background - Copy\Temp\bin\Debug\Mono.Cecil.dll
+E:\chaos\Documents\school stuff\semester2\PorgrammngIII\Unity\scrolling Background - Copy\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\chaos\Documents\school stuff\semester2\PorgrammngIII\Unity\scrolling Background - Copy\Temp\bin\Debug\Unity.DataContract.dll
+E:\chaos\Documents\school stuff\semester2\PorgrammngIII\Unity\scrolling Background - Copy\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+E:\chaos\Documents\school stuff\semester2\PorgrammngIII\Unity\scrolling Background - Copy\Temp\bin\Debug\Unity.UNetWeaver.dll
+E:\chaos\Documents\school stuff\semester2\PorgrammngIII\Unity\scrolling Background - Copy\Temp\bin\Debug\Unity.CecilTools.dll
+E:\chaos\Documents\school stuff\semester2\PorgrammngIII\Unity\scrolling Background - Copy\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+E:\chaos\Documents\school stuff\semester2\PorgrammngIII\Unity\scrolling Background - Copy\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+E:\chaos\Documents\school stuff\semester2\PorgrammngIII\Unity\scrolling Background - Copy\Temp\bin\Debug\UnityEngine.xml
+E:\chaos\Documents\school stuff\semester2\PorgrammngIII\Unity\scrolling Background - Copy\Temp\bin\Debug\UnityEditor.xml
+E:\chaos\Documents\school stuff\semester2\PorgrammngIII\Unity\scrolling Background - Copy\Temp\bin\Debug\UnityEngine.UI.xml
+E:\chaos\Documents\school stuff\semester2\PorgrammngIII\Unity\scrolling Background - Copy\Temp\bin\Debug\UnityEngine.Networking.xml
+E:\chaos\Documents\school stuff\semester2\PorgrammngIII\Unity\scrolling Background - Copy\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+E:\chaos\Documents\school stuff\semester2\PorgrammngIII\Unity\scrolling Background - Copy\obj\Debug\Assembly-CSharp.dll
+E:\chaos\Documents\school stuff\semester2\PorgrammngIII\Unity\scrolling Background - Copy\obj\Debug\Assembly-CSharp.pdb
+E:\chaos\Documents\school stuff\semester2\PorgrammngIII\Unity\Game\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+E:\chaos\Documents\school stuff\semester2\PorgrammngIII\Unity\Game\obj\Debug\Assembly-CSharp.dll
+E:\chaos\Documents\school stuff\semester2\PorgrammngIII\Unity\Game\obj\Debug\Assembly-CSharp.pdb
+E:\chaos\Documents\school stuff\semester2\PorgrammngIII\Unity\Game\Temp\bin\Debug\Assembly-CSharp.dll
+E:\chaos\Documents\school stuff\semester2\PorgrammngIII\Unity\Game\Temp\bin\Debug\Assembly-CSharp.pdb
+E:\chaos\Documents\school stuff\semester2\PorgrammngIII\Unity\Game\Temp\bin\Debug\UnityEditor.dll
+E:\chaos\Documents\school stuff\semester2\PorgrammngIII\Unity\Game\Temp\bin\Debug\UnityEngine.dll
+E:\chaos\Documents\school stuff\semester2\PorgrammngIII\Unity\Game\Temp\bin\Debug\UnityEngine.Networking.dll
+E:\chaos\Documents\school stuff\semester2\PorgrammngIII\Unity\Game\Temp\bin\Debug\UnityEngine.UI.dll
+E:\chaos\Documents\school stuff\semester2\PorgrammngIII\Unity\Game\Temp\bin\Debug\Mono.Cecil.dll
+E:\chaos\Documents\school stuff\semester2\PorgrammngIII\Unity\Game\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\chaos\Documents\school stuff\semester2\PorgrammngIII\Unity\Game\Temp\bin\Debug\Unity.DataContract.dll
+E:\chaos\Documents\school stuff\semester2\PorgrammngIII\Unity\Game\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+E:\chaos\Documents\school stuff\semester2\PorgrammngIII\Unity\Game\Temp\bin\Debug\Unity.UNetWeaver.dll
+E:\chaos\Documents\school stuff\semester2\PorgrammngIII\Unity\Game\Temp\bin\Debug\Unity.CecilTools.dll
+E:\chaos\Documents\school stuff\semester2\PorgrammngIII\Unity\Game\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+E:\chaos\Documents\school stuff\semester2\PorgrammngIII\Unity\Game\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+E:\chaos\Documents\school stuff\semester2\PorgrammngIII\Unity\Game\Temp\bin\Debug\UnityEngine.xml
+E:\chaos\Documents\school stuff\semester2\PorgrammngIII\Unity\Game\Temp\bin\Debug\UnityEditor.xml
+E:\chaos\Documents\school stuff\semester2\PorgrammngIII\Unity\Game\Temp\bin\Debug\UnityEngine.UI.xml
+E:\chaos\Documents\school stuff\semester2\PorgrammngIII\Unity\Game\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Owner\Google Drive\Unity\Game\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Owner\Google Drive\Unity\Game\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Owner\Google Drive\Unity\Game\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Owner\Google Drive\Unity\Game\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Owner\Google Drive\Unity\Game\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Owner\Google Drive\Unity\Game\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Owner\Google Drive\Unity\Game\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Owner\Google Drive\Unity\Game\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Owner\Google Drive\Unity\Game\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Owner\Google Drive\Unity\Game\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Owner\Google Drive\Unity\Game\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Owner\Google Drive\Unity\Game\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Owner\Google Drive\Unity\Game\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Owner\Google Drive\Unity\Game\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Owner\Google Drive\Unity\Game\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Owner\Google Drive\Unity\Game\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Owner\Google Drive\Unity\Game\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Owner\Google Drive\Unity\Game\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Owner\Google Drive\Unity\Game\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Google Drive\Unity\Game\obj\Debug\Assembly-CSharp.dll
+C:\Users\Owner\Google Drive\Unity\Game\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Chaos\Google Drive\Unity\Game\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Chaos\Google Drive\Unity\Game\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Chaos\Google Drive\Unity\Game\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Chaos\Google Drive\Unity\Game\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Chaos\Google Drive\Unity\Game\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Chaos\Google Drive\Unity\Game\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Chaos\Google Drive\Unity\Game\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Chaos\Google Drive\Unity\Game\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Chaos\Google Drive\Unity\Game\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Chaos\Google Drive\Unity\Game\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Chaos\Google Drive\Unity\Game\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Chaos\Google Drive\Unity\Game\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Chaos\Google Drive\Unity\Game\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Chaos\Google Drive\Unity\Game\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Chaos\Google Drive\Unity\Game\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Chaos\Google Drive\Unity\Game\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Chaos\Google Drive\Unity\Game\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Chaos\Google Drive\Unity\Game\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Chaos\Google Drive\Unity\Game\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Chaos\Google Drive\Unity\Game\obj\Debug\Assembly-CSharp.dll
+C:\Users\Chaos\Google Drive\Unity\Game\obj\Debug\Assembly-CSharp.pdb

@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{5021F5DB-12E4-D481-98A7-708AC49DECE0}") = "scrolling Background", "Assembly-CSharp.csproj", "{CC90CF80-7198-6364-C211-268C9C6E23B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC90CF80-7198-6364-C211-268C9C6E23B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC90CF80-7198-6364-C211-268C9C6E23B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC90CF80-7198-6364-C211-268C9C6E23B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC90CF80-7198-6364-C211-268C9C6E23B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
